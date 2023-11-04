@@ -11,6 +11,7 @@ repository = "https://github.com/protibimbok/rust-dyn-import"
 documentation = "https://github.com/protibimbok/rust-dyn-import"
 keywords = ["dynamic", "import", "helper", "macro"]
 categories = ["development-tools::procedural-macro-helpers"]
+description = "Rust macro to import modules dynamically."
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
