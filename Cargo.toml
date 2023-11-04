@@ -2,6 +2,15 @@
 name = "dyn_import"
 version = "0.1.0"
 edition = "2021"
+licence = "MIT"
+license-file = "LICENSE.txt"
+authors = ["Sakibur Rahman Khan <sakib.saad.khan@gmail.com>"]
+readme = "README.md"
+homepage = "https://github.com/protibimbok/rust-dyn-import"
+repository = "https://github.com/protibimbok/rust-dyn-import"
+documentation = "https://github.com/protibimbok/rust-dyn-import"
+keywords = ["dynamic", "import", "helper", "macro"]
+categories = ["development-tools::procedural-macro-helpers"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
