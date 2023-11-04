@@ -1,6 +1,6 @@
 [package]
 name = "dyn_import"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2021"
 licence = "MIT"
 license-file = "LICENSE.txt"
